@@ -1,6 +1,6 @@
 # AimTrainer
 
-Ein einfacher Aim Trainer mit einer beweglichen Zielscheibe (Ball) in Python und Tkinter.
+Ein einfacher Aim Trainer mit einer beweglichen Zielscheibe (Ball) in Python und Tkinter um Makcu zu testen.
 
 ## Features
 
