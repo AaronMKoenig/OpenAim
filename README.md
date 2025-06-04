@@ -19,5 +19,5 @@ Ein einfacher Aim Trainer mit einer beweglichen Zielscheibe (Ball) in Python und
 2. Das Repository klonen oder als ZIP herunterladen und entpacken
 
 ```bash
-git clone https://github.com/AaronMKoenig/AimTrainer.git
+git clone https://github.com/AaronMKoenig/OpenAim.git
 cd OPENAIM
